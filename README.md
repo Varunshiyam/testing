@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,mysql,git,github,postman,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,gcp,js,react,mysql,git,github&theme=dark" />
 </p>
 
 
