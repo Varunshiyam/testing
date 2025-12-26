@@ -122,29 +122,14 @@ edited:
 
 
 
-<!-- 🌌 Featured Constellations -->
-#### 🌠 Featured
+## 🌌 Featured Projects
 
 <p align="center">
-<a href="https://github.com/Varunshiyam/CAMPUZ__NAVIGATION">
-<img width="49%" align="center"
-src="https://github-readme-stat.vercel.app/api/pin/?username=Varunshiyam&repo=CAMPUZ__NAVIGATION&border_color=7F7CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F7CFF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Varunshiyam/CRM-Driven-Internship-Application-Tracker">
-<img width="49%" align="center"
-src="https://github-readme-stat.vercel.app/api/pin/?username=Varunshiyam&repo=CRM-Driven-Internship-Application-Tracker&border_color=7F7CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F7CFF" />
-</a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunshiyam&repo=CAMPUZ__NAVIGATION&bg_color=0D1117&border_color=7F7CFF&title_color=E6E6FA&text_color=9AA4FF&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunshiyam&repo=CRM-Driven-Internship-Application-Tracker&bg_color=0D1117&border_color=38BDF8&title_color=E6E6FA&text_color=9AA4FF&icon_color=38BDF8" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Varunshiyam/Fit-Connect">
-<img width="49%" align="center"
-src="https://github-readme-stat.vercel.app/api/pin/?username=Varunshiyam&repo=Fit-Connect&border_color=7F7CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F7CFF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Varunshiyam/CISCO-Network-Project">
-<img width="49%" align="center"
-src="https://github-readme-stat.vercel.app/api/pin/?username=Varunshiyam&repo=CISCO-Network-Project&border_color=7F7CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F7CFF" />
-</a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunshiyam&repo=Fit-Connect&bg_color=0D1117&border_color=22C55E&title_color=E6E6FA&text_color=9AA4FF&icon_color=22C55E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunshiyam&repo=CISCO-Network-Project&bg_color=0D1117&border_color=F97316&title_color=E6E6FA&text_color=9AA4FF&icon_color=F97316" />
 </p>
